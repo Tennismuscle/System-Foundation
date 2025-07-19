@@ -1,0 +1,19 @@
+
+dual_diagnostic_rule.core
+Author: Jose Luis Antonio Calderón
+System Name: Dual Diagnostic Protocol for High-Level Players
+
+Purpose:
+To ensure that any player above professional threshold is tested for BOTH
+(1) subconscious collapse patterns AND (2) physical flaws.
+
+This prevents praise from masking breakdowns.
+
+Trigger modules:
+- belief_collapse_during_match.core
+- short_ball_length_tracker.core
+- emotional_collapse_memory.core
+
+System will not proceed until both diagnostics pass.
+
+Sealed by the author.
